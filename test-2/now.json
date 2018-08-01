@@ -1,0 +1,10 @@
+{
+    "type": "docker",
+    "alias": "lwb-frontend-2",
+    "env": {
+        "MONGO_URL": "@h4i-mongo-uri"
+    },
+    "features": {
+        "cloud": "v2"
+    }
+}
